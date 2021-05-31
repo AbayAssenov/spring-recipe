@@ -23,7 +23,7 @@ public class UnitOfMeasureRepositoryIT {
     @Before
     public void setUp() throws Exception {
 
-
+        System.out.println("Init set up");
     }
 
     @Test
